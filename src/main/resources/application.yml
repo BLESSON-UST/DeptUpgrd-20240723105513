@@ -1,0 +1,17 @@
+The provided content seems to be in a YAML file format and not in a Java source code file. As such, it does not require to be upgraded to Java 17. However, I can help you upgrade it to a newer YAML version (1.2) if needed.
+
+The modified code compatible with YAML version 1.2 is as follows:
+
+```yaml
+---
+server:
+  port: 9002
+
+spring:
+  application:
+    name: DEPARTMENT-SERVICE
+  zipkin:
+    base-uri: http://127.0.0.1:9411/
+```
+
+Please note that this code is still in YAML format and does not require any specific language version to be specified.
